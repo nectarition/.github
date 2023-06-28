@@ -15,8 +15,8 @@ https://nectarition.jp
 
 ## ⛓ Links
 
-- Repository archives GitHub Organization [nct-archives](https://github.com/nct-archives)
-- Technical verification GitHub Organization [nct-sandbox](https://github.com/nct-sandbox)
+- [nct-archives](https://github.com/nct-archives) Repository archives GitHub Organization
+- [nct-sandbox](https://github.com/nct-sandbox) Technical verification GitHub Organization
 
 ## 📨 Contacts
 
